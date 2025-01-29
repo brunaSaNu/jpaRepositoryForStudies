@@ -1,6 +1,6 @@
 # JPARepository Query Methods - Study
 
-This project aims to test the functionalities of `JpaRepository` in Java using `Query Methods` from Spring Data JPA.
+This project it's to test the functionalities of `JpaRepository` in Java using `Query Methods` from Spring Data JPA.
 
 ## Description
 
